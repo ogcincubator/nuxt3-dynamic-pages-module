@@ -6,7 +6,7 @@ import {
   updateRuntimeConfig,
   useLogger,
   useRuntimeConfig,
-} from 'nuxt/kit';
+} from '@nuxt/kit';
 import fm from 'front-matter';
 import fs from 'node:fs';
 import type {FrontMatterResult} from 'front-matter';
